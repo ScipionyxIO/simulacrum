@@ -22,6 +22,7 @@
         <module>scipionyxio-simulacrum-model</module>
         <module>scipionyxio-simulacrum-service</module>
         <module>scipionyxio-simulacrum-web</module>
+        <module>scipionyxio-simulacrum-deployment</module>
     </modules>
 
 </project>
